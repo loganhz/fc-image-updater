@@ -1,0 +1,8 @@
+{
+  "ACCOUNT_ID": "your_aliyun_account_id",
+  "ACCESS_KEY_ID": "your_aliyun_ak",
+  "ACCESS_KEY_SECRET": "your_aliyun_sk",
+  "REGION_ID": "your_region_id",
+  "SERVICE_NAME": "your_service_name",
+  "FUNCTION_NAME": "your_function_name"
+}
